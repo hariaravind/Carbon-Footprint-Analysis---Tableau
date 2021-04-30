@@ -1,6 +1,6 @@
 # Carbon-Footprint-Analysis---Tableau
 
-Analysis of Global Ecological Footprint (Tableau) completed for TBANLT 510 Business Analytics. 
+Analysis of Global Ecological Footprint (Tableau)
 
 Documents include the following. 
 
